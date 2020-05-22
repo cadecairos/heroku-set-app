@@ -9,12 +9,11 @@ always set HEROKU_APP to a configured value
 [![Downloads/week](https://img.shields.io/npm/dw/heroku-set-app.svg)](https://npmjs.org/package/heroku-set-app)
 [![License](https://img.shields.io/npm/l/heroku-set-app.svg)](https://github.com/cadecairos/heroku-set-app/blob/master/package.json)
 
-<!-- toc -->
 * [Usage](#usage)
 * [Commands](#commands)
-<!-- tocstop -->
+
 # Usage
-<!-- usage -->
+
 ```sh-session
 $ heroku plugins:install cadecairos/heroku-set-app
 $ heroku set-app my-app
@@ -26,9 +25,9 @@ $ heroku set-app -d
 Deleted my-app from the set-app config
 ...
 ```
-<!-- usagestop -->
+
 # Commands
-<!-- commands -->
+
 * [`heroku set-app`](#heroku-set-app)
 
 ## `heroku set-app appName`
@@ -44,4 +43,3 @@ OPTIONS
 ```
 
 _See code: [src/commands/set-app.js](https://github.com/cadecairos/heroku-set-app/blob/v0.0.2/src/commands/set-app.js)_
-<!-- commandsstop -->
