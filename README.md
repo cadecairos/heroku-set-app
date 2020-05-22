@@ -43,5 +43,5 @@ OPTIONS
   -d, --delete  delete the value of appName in the user config
 ```
 
-_See code: [src/commands/set-app.js](https://github.com/cadecairos/heroku-set-app/blob/v0.0.1/src/commands/set-app.js)_
+_See code: [src/commands/set-app.js](https://github.com/cadecairos/heroku-set-app/blob/v0.0.2/src/commands/set-app.js)_
 <!-- commandsstop -->
