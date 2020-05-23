@@ -28,8 +28,8 @@ Deleted my-app from the set-app config
 
 # Commands
 
-* [`heroku set-app:set`](#heroku-set-app)
-* [`heroku set-app:delete`](#heroku-set-app)
+* [`heroku set-app:set`](#heroku-set-app:set-appName)
+* [`heroku set-app:delete`](#heroku-set-app:delete)
 
 ## `heroku set-app:set appName`
 
@@ -40,7 +40,7 @@ USAGE
   $ heroku set-app:set appName
 ```
 
-_See code: [src/commands/set-app/set.js](https://github.com/cadecairos/heroku-set-app/blob/v0.0.2/src/commands/set-app/set.js)_
+_See code: [src/commands/set-app/set.js](https://github.com/cadecairos/heroku-set-app/blob/v0.1.0/src/commands/set-app/set.js)_
 
 ## `heroku set-app:delete`
 
@@ -51,4 +51,4 @@ USAGE
   $ heroku set-app:delete
 ```
 
-_See code: [src/commands/set-app/delete.js](https://github.com/cadecairos/heroku-set-app/blob/v0.0.2/src/commands/set-app/delete.js)_
+_See code: [src/commands/set-app/delete.js](https://github.com/cadecairos/heroku-set-app/blob/v0.1.0/src/commands/set-app/delete.js)_
