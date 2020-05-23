@@ -1,7 +1,7 @@
 {
   "name": "heroku-set-app",
   "description": "always set HEROKU_APP to a configured value",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "author": "Christopher DeCairos @cadecairos",
   "bugs": "https://github.com/cadecairos/heroku-set-app/issues",
   "dependencies": {
